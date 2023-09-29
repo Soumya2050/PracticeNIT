@@ -21,6 +21,11 @@ public class Abc {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.manage().window().maximize();
 		driver.get("https://www.naukri.com/mnjuser/profile");
+		
+		
+		System.out.println("sdb x,nxdzhvmmn");
+		
+		
 //		WebElement ele = driver.findElement(By.xpath("//div[@class='abc']"));
 //		ele.click();
 //		Set<String> wa = driver.getWindowHandles();
